@@ -1,0 +1,11 @@
+{
+  "name": "reactreserve",
+  "alias": "<insert-your-alias>.now.sh",
+  "version": 1,
+  "env": {
+    "MONGO_SRV": "mongodb+srv://ThiagoAlm:my123@cluster0-dkixg.mongodb.net/test?retryWrites=true&w=majority",
+    "JWT_SECRET": "jwtsecrettoken",
+    "CLOUDINARY_URL": "https://api.cloudinary.com/v1_1/thiagoa/image/upload",
+    "STRIPE_SECRET_KEY": "sk_test_Yc5W7RRMMrtc4rrPW7kbGE6L00h6gqvwLp"
+  }
+}
